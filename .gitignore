@@ -1,0 +1,9 @@
+__pycache__
+.DS_Store
+output/*
+output_log/*
+nbs/
+submission
+submission.zip
+.clj-kondo/
+.lsp/
